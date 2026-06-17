@@ -4,7 +4,7 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 
 
-![Portfolio Preview](public/images/preview1.png)
+![Portfolio Preview](public/images/preview_faraz.png)
 
 ## Table of Contents
 
