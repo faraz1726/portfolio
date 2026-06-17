@@ -1,9 +1,8 @@
 import {
   FaGithub,
-  FaInstagram,
   FaLinkedinIn,
-  FaYoutube,
-} from "react-icons/fa6";
+} 
+from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
